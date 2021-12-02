@@ -1,4 +1,4 @@
-# QQ群基建副手 {#qq群基建副手 .list-paragraph}
+# QQ群基建副手
 
 ## 简要介绍
 

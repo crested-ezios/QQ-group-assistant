@@ -1,5 +1,5 @@
+![LOGO](https://github.com/crested-ezios/QQ-group-assistant/blob/main/QQGP_LOGO%20-%20Black.png)
 # QQ群基建副手
-
 基于 [Mirai](https://github.com/mamoe/mirai) ，使用 [mirai-cpp](https://github.com/cyanray/mirai-cpp) 进行开发的多群联合+群分类管理QQ机器人插件。
 
 ## 目标用户群体
